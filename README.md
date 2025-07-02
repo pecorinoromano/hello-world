@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+I'm Anne and I am 15. I'm in computing with my two friends, Jing and Pranaya.
